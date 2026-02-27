@@ -1,9 +1,9 @@
-📱 Smartphone Companies Stock Dashboard (2016–2021)
+##📱 Smartphone Companies Stock Dashboard (2016–2021)
 
 An interactive stock market dashboard built with Streamlit to compare major smartphone companies and analyze their historical stock performance between 2016 and 2021.
 The dataset was sourced from Kaggle and includes daily stock metrics for multiple companies.
 
-Features
+### Features
 📊 Compare multiple companies on a single interactive line chart
 📈 Select stock metrics: Open, High, Low, Close, Adjusted Close, Volume
 📅 Filter by custom date range
@@ -12,13 +12,13 @@ Features
 📄 Preview filtered dataset
 📊 Clean, responsive visualizations using Plotly
 
-Tech Stack
+### Tech Stack
 * Python
 * Streamlit
 * Pandas
 * Plotly Express
 
-Project Structure
+### Project Structure
 SMARTPHONE-COMPANIES-STOCK-DASHBOARD/
 │
 ├── data/  # CSV files (one per company)
@@ -28,7 +28,7 @@ SMARTPHONE-COMPANIES-STOCK-DASHBOARD/
 │   └── config.toml  # For setting dark theme
 └── README.md
 
-Dashboard Overview
+### Dashboard Overview
 The dashboard allows users to:
 * Select one or multiple companies
 * Filter by date range
@@ -36,5 +36,5 @@ The dashboard allows users to:
 * Compare companies directly
 * Analyze individual company performance against peer averages
 
-📌 Data Source
+###📌 Data Source
 Dataset obtained from Kaggle
