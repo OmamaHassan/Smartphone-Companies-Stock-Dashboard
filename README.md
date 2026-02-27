@@ -1,4 +1,4 @@
-## 📱 Smartphone Companies Stock Dashboard (2016–2021)
+## Smartphone Companies Stock Dashboard (2016–2021)
 
 An interactive stock market dashboard built with **Streamlit** to compare major smartphone companies and analyze their historical stock performance between **2016 and 2021**.
 
@@ -27,6 +27,8 @@ The dataset was sourced from **Kaggle**.
 
 ---
 
+##  Project Structure
+
 Smartphone-Companies-Stock-Dashboard/
 │
 ├── data/ # CSV files (one per company)
@@ -35,7 +37,6 @@ Smartphone-Companies-Stock-Dashboard/
 ├── .streamlit/
 │ └── config.toml # For setting dark theme
 └── README.md
-
 ---
 
 ##  Dashboard Overview
@@ -53,5 +54,3 @@ The dashboard allows users to:
 ## 📌 Data Source
 
 Dataset obtained from Kaggle.
-
-## 📂 Project Structure
