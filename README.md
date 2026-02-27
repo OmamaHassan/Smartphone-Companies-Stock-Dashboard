@@ -14,16 +14,12 @@ The dataset was sourced from **Kaggle**.
 - 📄 Preview filtered dataset  
 - 📊 Clean, responsive visualizations using Plotly  
 
----
-
 ##  Tech Stack
 
 - Python  
 - Streamlit  
 - Pandas  
 - Plotly Express  
-
----
 
 ##  Project Structure
 
@@ -37,7 +33,6 @@ Smartphone-Companies-Stock-Dashboard/
 │ └── config.toml  # For setting dark theme
 └── README.md
 ```
----
 
 ##  Dashboard Overview
 
@@ -48,8 +43,6 @@ The dashboard allows users to:
 - Choose a stock performance metric  
 - Compare companies directly  
 - Analyze individual company performance against peer averages  
-
----
 
 ## 📌 Data Source
 
