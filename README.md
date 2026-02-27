@@ -4,7 +4,7 @@ An interactive stock market dashboard built with **Streamlit** to compare major 
 
 The dataset was sourced from **Kaggle**.
 
----
+----
 
 ##  Features
 
@@ -32,11 +32,11 @@ The dataset was sourced from **Kaggle**.
 ```
 Smartphone-Companies-Stock-Dashboard/
 │
-├── data/ # CSV files (one per company)
-├── app.py # Streamlit dashboard script
+├── data/  # CSV files (one per company)
+├── app.py  # dashboard script
 ├── requirements.txt
 ├── .streamlit/
-│ └── config.toml # For setting dark theme
+│ └── config.toml  # For setting dark theme
 └── README.md
 ```
 ---
