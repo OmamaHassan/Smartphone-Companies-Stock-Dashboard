@@ -4,12 +4,12 @@ An interactive stock market dashboard built with **Streamlit** to compare major 
 
 The dataset was sourced from **Kaggle**.
 
-----
+---
 
 ##  Features
 
 - 📊 Compare multiple companies on a single interactive line chart  
-- 📈 Select stock metrics: Open, High, Low, Close, Adjusted Close, Volume  
+- 📈 Select stock metrics: Open, High, Low, Close, Adj Close, Volume  
 - 📅 Filter by custom date range  
 - 🔍 Multi-company selection  
 - 🤝 Individual stock vs Peer Average comparison  
