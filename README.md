@@ -3,9 +3,7 @@
 An interactive stock market dashboard built with **Streamlit** to compare major smartphone companies and analyze their historical stock performance between **2016 and 2021**.
 
 The dataset was sourced from **Kaggle**.
-
 ---
-
 ##  Features
 
 - 📊 Compare multiple companies on a single interactive line chart  
