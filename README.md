@@ -2,11 +2,11 @@
 
 An interactive stock market dashboard built with **Streamlit** to compare major smartphone companies and analyze their historical stock performance between **2016 and 2021**.
 
-The dataset was sourced from **Kaggle** and includes daily stock metrics for multiple companies.
+The dataset was sourced from **Kaggle**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📊 Compare multiple companies on a single interactive line chart  
 - 📈 Select stock metrics: Open, High, Low, Close, Adjusted Close, Volume  
@@ -18,7 +18,7 @@ The dataset was sourced from **Kaggle** and includes daily stock metrics for mul
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Streamlit  
@@ -38,7 +38,7 @@ Smartphone-Companies-Stock-Dashboard/
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 The dashboard allows users to:
 
