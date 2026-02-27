@@ -30,7 +30,7 @@ The dataset was sourced from **Kaggle**.
 ##  Project Structure
 
 ```
-SMARTPHONE-COMPANIES-STOCK-DASHBOARD/
+Smartphone-Companies-Stock-Dashboard/
 │
 ├── data/  # CSV files (one per company)
 ├── app.py  # dashboard script
