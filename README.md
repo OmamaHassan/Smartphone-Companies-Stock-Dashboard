@@ -44,6 +44,6 @@ The dashboard allows users to:
 - Compare companies directly  
 - Analyze individual company performance against peer averages  
 
-## 📌 Data Source
+##  Data Source
 
 Dataset obtained from Kaggle.
