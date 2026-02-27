@@ -29,6 +29,7 @@ The dataset was sourced from **Kaggle**.
 
 ##  Project Structure
 
+```
 Smartphone-Companies-Stock-Dashboard/
 │
 ├── data/ # CSV files (one per company)
@@ -37,6 +38,7 @@ Smartphone-Companies-Stock-Dashboard/
 ├── .streamlit/
 │ └── config.toml # For setting dark theme
 └── README.md
+```
 ---
 
 ##  Dashboard Overview
