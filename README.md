@@ -6,13 +6,13 @@ The dataset was sourced from **Kaggle**.
 
 ##  Features
 
-- 📊 Compare multiple companies on a single interactive line chart  
-- 📈 Select stock metrics: Open, High, Low, Close, Adj Close, Volume  
-- 📅 Filter by custom date range  
-- 🔍 Multi-company selection  
-- 🤝 Individual stock vs Peer Average comparison  
-- 📄 Preview filtered dataset  
-- 📊 Clean, responsive visualizations using Plotly  
+📊 Compare multiple companies on a single interactive line chart  
+📈 Select stock metrics: Open, High, Low, Close, Adj Close, Volume  
+📅 Filter by custom date range  
+🔍 Multi-company selection  
+🤝 Individual stock vs Peer Average comparison  
+📄 Preview filtered dataset  
+📊 Clean, responsive visualizations using Plotly  
 
 ##  Tech Stack
 
